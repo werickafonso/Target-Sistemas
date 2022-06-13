@@ -1,7 +1,7 @@
 //# Target-Sistemas
 //Teste de Programação
 
-//Questão numero 1
+//Questão numero 2
 
 
 {
