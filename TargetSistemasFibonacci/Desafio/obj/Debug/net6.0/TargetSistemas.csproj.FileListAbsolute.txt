@@ -1,0 +1,15 @@
+C:\TargetSistemas\Desafio\bin\Debug\net6.0\TargetSistemas.exe
+C:\TargetSistemas\Desafio\bin\Debug\net6.0\TargetSistemas.deps.json
+C:\TargetSistemas\Desafio\bin\Debug\net6.0\TargetSistemas.runtimeconfig.json
+C:\TargetSistemas\Desafio\bin\Debug\net6.0\TargetSistemas.dll
+C:\TargetSistemas\Desafio\bin\Debug\net6.0\TargetSistemas.pdb
+C:\TargetSistemas\Desafio\obj\Debug\net6.0\TargetSistemas.csproj.AssemblyReference.cache
+C:\TargetSistemas\Desafio\obj\Debug\net6.0\TargetSistemas.GeneratedMSBuildEditorConfig.editorconfig
+C:\TargetSistemas\Desafio\obj\Debug\net6.0\TargetSistemas.AssemblyInfoInputs.cache
+C:\TargetSistemas\Desafio\obj\Debug\net6.0\TargetSistemas.AssemblyInfo.cs
+C:\TargetSistemas\Desafio\obj\Debug\net6.0\TargetSistemas.csproj.CoreCompileInputs.cache
+C:\TargetSistemas\Desafio\obj\Debug\net6.0\TargetSistemas.dll
+C:\TargetSistemas\Desafio\obj\Debug\net6.0\refint\TargetSistemas.dll
+C:\TargetSistemas\Desafio\obj\Debug\net6.0\TargetSistemas.pdb
+C:\TargetSistemas\Desafio\obj\Debug\net6.0\TargetSistemas.genruntimeconfig.cache
+C:\TargetSistemas\Desafio\obj\Debug\net6.0\ref\TargetSistemas.dll
